@@ -1,4 +1,4 @@
 # sampleRepo
 A sample repo
 
-Authore - Rohit Sharma
+Author - Rohit Sharma
